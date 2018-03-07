@@ -7,9 +7,15 @@ Authors@R: c(person(given = "Shinya",
                                      email = "suika1127@gmail.com",
                                      role  = c("aut", "cre"),
                                      comment = c(ORCID = "0000-0002-0493-6186")))
+Imports:
+    bookdown
+Suggests:
+    lintr,
+    servr
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 ByteCompile: true
 URL: https://github.com/uribo/scpracticer
 BugReports: https://github.com/uribo/scpracticer/issues
+RoxygenNote: 6.0.1

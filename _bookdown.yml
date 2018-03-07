@@ -1,0 +1,5 @@
+rmd_files:
+    - "index.Rmd"
+#    - "references.Rmd"
+new_session: yes
+before_chapter_script: ["R/before_script.R"]

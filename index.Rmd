@@ -1,0 +1,30 @@
+--- 
+title: "Scientific Computing Practice with R"
+author: "Shinya Uryu"
+date: "`r Sys.Date()`"
+knit: bookdown::render_book
+site: bookdown::bookdown_site
+documentclass: book
+#bibliography:
+#  - references.bib
+#  - packages.bib
+biblio-style: apalike
+link-citations: yes
+description: "Scientific Computing Practice with R"
+github-repo: "uribo/scpracticer"
+# url: ""
+---
+
+# Welcome {-}
+
+## Development {-}
+
+## How to contribute? {-}
+
+## Reproducibility {-}
+
+```{r, message=FALSE, eval = FALSE, echo = TRUE}
+remotes::install_github("uribo/scpracticer")
+```
+
+# Preface {-}

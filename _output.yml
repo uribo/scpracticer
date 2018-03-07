@@ -1,0 +1,18 @@
+bookdown::gitbook:
+  css: css/style.css
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./">Scientific Comuting Practice with R</a></li>
+      after: |
+        <li><a href="https://suryu.me">Shinya Uryu</a></li>
+    edit:
+      link: https://github.com/uribo/scpracticer/edit/master/%s
+      text: "Edit"
+bookdown::html_chapters:
+  css: [css/style.css, css/toc.css]
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+keep_tex: yes
