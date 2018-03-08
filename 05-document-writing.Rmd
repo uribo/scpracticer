@@ -1,0 +1,5 @@
+# ドキュメント
+
+## R Markdownによるドキュメント自動作成 {#rmarkdown}
+
+### R Markdownによるプレゼンテーション作成 {#rmarkdown-presentation}

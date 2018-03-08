@@ -1,5 +1,10 @@
 rmd_files:
     - "index.Rmd"
+    - "01-introduction.Rmd"
+    - "02-scientific-computing.Rmd"
+    - "03-project-organization.Rmd"
+    - "04-version-control.Rmd"
+    - "05-document-writing.Rmd"
 #    - "references.Rmd"
 new_session: yes
 before_chapter_script: ["R/before_script.R"]

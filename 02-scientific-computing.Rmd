@@ -1,0 +1,12 @@
+# コンピュータを用いた科学研究
+
+## 再現可能な研究 {#reproducible-research}
+
+## ソフトウェアとしてのR {#r-software}
+
+### RStduio {#rstudio-software}
+
+## R以外の科学計算ソフトウェア
+
+- Python
+- Julia
