@@ -6,3 +6,4 @@ _bookdown_files
 _main.*
 *.html
 *.pdf
+.env
