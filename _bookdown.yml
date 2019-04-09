@@ -4,7 +4,8 @@ rmd_files:
     - "02-scientific-computing.Rmd"
     - "03-project-organization.Rmd"
     - "04-version-control.Rmd"
-    - "05-document-writing.Rmd"
+    - "05-reproducibility-with-docker.Rmd"
+    - "06-document-writing.Rmd"
 #    - "references.Rmd"
 new_session: yes
 before_chapter_script: ["R/before_script.R"]
