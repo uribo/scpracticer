@@ -4,7 +4,18 @@
 
 ## ソフトウェアとしてのR {#r-software}
 
-### RStduio {#rstudio-software}
+### RStduioの導入 {#rstudio-software}
+
+- RStudioは、R言語を実行する統合開発環境 (Integrated Development Environment: IDE)です。Rの実行のみならず、作図した結果の表示・保存やデータベースとの接続、パッケージ開発のためのテスト実行、端末の操作など多くの機能を有しています。
+- https://www.rstudio.com/products/rstudio/download/ からインストール
+    - 最新版は `v1.2.1335` (`r format(lubridate::today(), "%Y年%m月%d日")` 現在)
+- 特徴は4つのpain
+    - ソース
+    - コンソール
+    - Environment
+    - Files
+    - これらの配置は自在に調整ができ、またテーマを変更することで見た目を好みのデザインにすることも可能です。
+
 
 ## R以外の科学計算ソフトウェア
 
